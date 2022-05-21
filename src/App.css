@@ -43,6 +43,9 @@
   margin: 2px;
   font-size: larger;
   border-radius: 5px;
+  background-color: red;
+  color: white;
+  box-shadow: 2px 2px 8px black;
 }
 .phone-detail{
   margin-bottom: 5px;
