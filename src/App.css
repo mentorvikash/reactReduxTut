@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.button-wrapper{
+  padding: 5px;
+  border: 1px black solid;
+  margin: 2px;
+  font-size: larger;
+  border-radius: 5px;
+}
+.phone-detail{
+  margin-bottom: 5px;
+}
